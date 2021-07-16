@@ -20,11 +20,6 @@ const routes = [
            }
         ]
     },
-    // {
-    //     path: "/register",
-    //     component: Register,
-    //     title: "sukses"
-    // }
 ]
 
 export default routes
